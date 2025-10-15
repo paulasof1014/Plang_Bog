@@ -21,10 +21,6 @@ body {
   background-color: #FFFFFF;
   display: flex;
   flex-direction: column;  
-	background-position: center center;
-	background-size: cover;
-	background-repeat: none;
-	background-attachment: fixed;
 
 }
 
@@ -52,6 +48,10 @@ background: linear-gradient(
     height: 100vh;
     float: left;
     background-image: url(img/portada-que-hacer-chapinero.jpg);   
+	background-position: center center;
+	background-size: cover;
+	background-repeat: none;
+	background-attachment: fixed;
 }
 
 
@@ -237,3 +237,4 @@ footer{
   padding: 20px;
  
 }
+
